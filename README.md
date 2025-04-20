@@ -57,8 +57,4 @@ I'm a passionate Full Stack Developer specializing in building responsive, user-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Djain912&icon=0&color=0" alt="Visit Count" />
-</p>
 
-<!-- Proudly created with GPRM and enhanced by Darshan Jain -->
